@@ -1,4 +1,3 @@
-## Hi there 👋
+## Hello
 
-Hello! I'm ysooj.
-Welcome.
+A GitHub about my growth process
